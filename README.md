@@ -17,7 +17,7 @@ This Streamlit app uses AI to generate a beautiful 3–4 line story from any ima
 ## 🚀 How to Run
 
 ```bash
-git clone https://github.com/yourusername/image-to-story-app.git
-cd image-to-story-app
+git clone https://github.com/AshwiniGidaveer82/ImageToStoryGenerate
+cd ImageToStoryGenerate
 pip install -r requirements.txt
 streamlit run app.py
